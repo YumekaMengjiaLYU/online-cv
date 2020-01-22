@@ -19,16 +19,19 @@ sidebar:
     github: YumekaMengjiaLYU
     gitlab:
     bitbucket:
-    twitter: '@jiaer131'
+    twitter: '@kayql131'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
+        level: Bilingual
 
-      - idiom: French
+      - idiom: Mandarin
+        level: Native
+      
+      - idiom: Japanese
         level: Professional
 
       - idiom: Spanish
@@ -38,7 +41,7 @@ sidebar:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Hiking
         link:
 
       - item: Cooking
@@ -47,142 +50,99 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Data scientist with a solid background in engineering and statistics.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Biostatistics
+      university: Columbia University
+      time: 2019 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Take courses in statistical methods and machine learning.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS in Electrical Engineering
+      university: UC San Diego
+      time: 2013 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Build circuits and learn the foundations of engineering.
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Teaching Assistant
+      time: January 2018 - March 2018
+      company: School of Global Policy and Strategy @ UC San Diego 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        
+          - Tutored in-class for MPP(Master of Public Policy) and MIA(Master of International Affairs) students enrolled in Data Certificate Program, which consisted of three modules - R, Python and Data Management
+          - Graded homework assidgnments and quizzes
+          - Held weekly office hour
+
+    - role: Tutor
+      time: January 2015 - December 2017
+      company: Department of Electrical and Computer Engineering @ UC San Diego
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+       
+          - Led weekly laboratory sessions for an introductory undergraduate class in digital and analog circuit design
+          - Graded homework assignments, quizzes and projects
+          - Held weekly office hour
+    - role: Research Assistant
+      time: January 2017 - December 2017
+      company: Department of Nanoengineering @ UC San Diego
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked with http://joewang.ucsd.edu/.
+          - Worked in collaboration with PhD students on electrochemical wearable sensors in professor Joseph Wang's lab
+          - Designed custom-built electronic interface in a team of electrical engineers
+          - Assisted in resolving technical issues with coomputers and electronic devices in the lab 
+    - role: Senior Capstone Member
+      time: January 2017 - March 2017
+      company: Cubic Corporation
+      details: |
+       
+          - Collaborated with three teammates to implement an embedded software system for the subway passenger tracking system being developed at the Cubic Corporation
+          - Took notes from weekly meetings with team mentor Dr. Tom Busch-Sorensen 
+          - Soldered circuits onto PCBs
+    - role: Research Intern
+      time: June 2016 - August 2016
+      company: Institute of Microelectronics @ Fudan University
+      details: |
+       
+          - Designed a prototype PCB of a finger oximeter under the mentorship of professor Patrick Chiang
+          - Researched on oximeters and functional near-infrared spectroscopy (fNIRS)
+    - role: Research Volunteer
+      time: June 2015 - August 2015
+      company: Department of Mechanical Engineering @ UC San Diego
+      details: |
+       
+          - Studied under the supervision of professor Farhat Beg
+          - Revised and edited MATLAB code for the research group
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: US Maternal Health Statistics By State and Year
+        link: "#https://mengjia-lyu.shinyapps.io/us_shiny/"
+        tagline: "class team project"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R & Shiny
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: C & C++
+        level: 60%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: SQL
+        level: 60%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Java
+        level: 60%
 
-      - name: Sketch & Photoshop
+      - name: PySpark & Hadoop & Hive
         level: 60%
 
 footer: >
