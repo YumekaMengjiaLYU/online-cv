@@ -22,7 +22,7 @@ sidebar:
     twitter: '@kayql131'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 82882639-mengjialyu #, e.g. 123456-alandoe
+    goodreads: mengjialyu #, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -122,6 +122,9 @@ projects:
       - title: US Maternal Health Statistics By State and Year
         link: "#https://mengjia-lyu.shinyapps.io/us_shiny/"
         tagline: "class team project"
+
+Certificates:
+
 
 skills:
     title: Skills &amp; Proficiency
