@@ -133,6 +133,9 @@ skills:
       - name: R & Shiny
         level: 98%
 
+      - name: MATLAB
+        level: 90%
+
       - name: C & C++
         level: 60%
 
@@ -144,6 +147,9 @@ skills:
 
       - name: PySpark & Hadoop & Hive
         level: 60%
+
+      - name: Julia
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
