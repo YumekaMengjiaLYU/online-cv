@@ -21,8 +21,8 @@ sidebar:
     bitbucket:
     twitter: '@kayql131'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: mengjialyu #, e.g. 123456-alandoe
+    codewars: YumekaMengjiaLYU
+    #goodreads: mengjialyu #, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -140,6 +140,9 @@ skills:
         level: 90%
 
       - name: C & C++
+        level: 60%
+
+      - name: C#
         level: 60%
 
       - name: SQL
