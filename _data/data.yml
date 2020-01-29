@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data scientist with a solid background in engineering and statistics.
+      Data scientist with a solid background in electrical engineering and statistics. Strong interest in machine learning, signal processing and data science for social good.
 education:
     - degree: MS in Biostatistics
       university: Columbia University
@@ -67,7 +67,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Teaching Assistant
+    - role: Teaching Assistant - R, Python & Data Management Certificate Program
       time: January 2018 - March 2018
       company: School of Global Policy and Strategy @ UC San Diego 
       details: |
@@ -76,7 +76,7 @@ experiences:
           - Graded homework assidgnments and quizzes
           - Held weekly office hour
 
-    - role: Tutor
+    - role: Tutor - Introduction to Digital/Analog Design (ECE 25/35)
       time: January 2015 - December 2017
       company: Department of Electrical and Computer Engineering @ UC San Diego
       details: |
@@ -84,7 +84,7 @@ experiences:
           - Led weekly laboratory sessions for an introductory undergraduate class in digital and analog circuit design
           - Graded homework assignments, quizzes and projects
           - Held weekly office hour
-    - role: Research Assistant
+    - role: Research Assistant - Electrochemical Interfaces
       time: January 2017 - December 2017
       company: Department of Nanoengineering @ UC San Diego
       details: |
@@ -92,7 +92,7 @@ experiences:
           - Worked in collaboration with PhD students on electrochemical wearable sensors in professor Joseph Wang's lab
           - Designed custom-built electronic interface in a team of electrical engineers
           - Assisted in resolving technical issues with coomputers and electronic devices in the lab 
-    - role: Senior Capstone Member
+    - role: Senior Capstone Member - Embedded Subway Gate System
       time: January 2017 - March 2017
       company: Cubic Corporation
       details: |
@@ -100,19 +100,19 @@ experiences:
           - Collaborated with three teammates to implement an embedded software system for the subway passenger tracking system being developed at the Cubic Corporation
           - Took notes from weekly meetings with team mentor Dr. Tom Busch-Sorensen 
           - Soldered circuits onto PCBs
-    - role: Research Intern
+    - role: Summer Research Intern - PCB Design for Medical Devices 
       time: June 2016 - August 2016
       company: Institute of Microelectronics @ Fudan University
       details: |
        
           - Designed a prototype PCB of a finger oximeter under the mentorship of professor Patrick Chiang
           - Researched on oximeters and functional near-infrared spectroscopy (fNIRS)
-    - role: Research Volunteer
+    - role: Summer Research Volunteer 
       time: June 2015 - August 2015
-      company: Department of Mechanical Engineering @ UC San Diego
+      company: Center for Energy Research @ UC San Diego
       details: |
        
-          - Studied under the supervision of professor Farhat Beg
+          - Studied under the supervision of professor Farhat Beg 
           - Revised and edited MATLAB code for the research group
 projects:
     title: Projects
