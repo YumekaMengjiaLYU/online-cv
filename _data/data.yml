@@ -67,7 +67,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Teaching Assistant - R, Python & Data Management Certificate Program
+    - role: Teaching Assistant - R, Python & Data Management 
       time: January 2018 - March 2018
       company: School of Global Policy and Strategy @ UC San Diego 
       details: |
@@ -92,7 +92,7 @@ experiences:
           - Worked in collaboration with PhD students on electrochemical wearable sensors in professor Joseph Wang's lab
           - Designed custom-built electronic interface in a team of electrical engineers
           - Assisted in resolving technical issues with coomputers and electronic devices in the lab 
-    - role: Senior Capstone Member - Embedded Subway Gate System
+    - role: Senior Capstone Member - Embedded System Design
       time: January 2017 - March 2017
       company: Cubic Corporation
       details: |
