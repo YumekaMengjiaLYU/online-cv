@@ -19,7 +19,7 @@ sidebar:
     github: YumekaMengjiaLYU
     gitlab:
     bitbucket:
-    twitter: '@kayql131'
+    #twitter: '@kayql131'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: YumekaMengjiaLYU
     #goodreads: mengjialyu #, e.g. 123456-alandoe
@@ -36,7 +36,8 @@ sidebar:
 
       - idiom: Spanish
         level: Professional
-
+    
+      
     interests:
       - item: Climbing
         link:
@@ -50,7 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data scientist with a solid background in electrical engineering and statistics. Strong interest in machine learning, signal processing and data science for social good.
+      Data scientist with a solid background in electrical engineering and statistics. Strong interest in machine learning, signal processing and data science for social good. Online learning and mental health advocate.
 education:
     - degree: MS in Biostatistics
       university: Columbia University
