@@ -113,8 +113,8 @@ experiences:
        #   - Collaborated with three teammates to implement an embedded software system for subway passenger tracking system being developed at Cubic Corporation
         #  - Took notes from weekly meetings with team mentor Dr. Tom Busch-Sorensen 
          # - Soldered circuits onto PCBs
-    #- role: Summer Research Intern - PCB Design for Medical Devices 
-     # time: June - August 2016
+    - role: Summer Research Intern - PCB Design for Medical Devices 
+      time: June - August 2016
       company: Institute of Microelectronics @ Fudan University
       details: |
        
