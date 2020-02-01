@@ -42,14 +42,18 @@ sidebar:
     
       
     interests:
-      - item: Climbing
+      - item: Machine Learning for Data Science
         link:
 
-      - item: Hiking
+      - item: Advanced Data Structures
         link:
 
-      - item: Cooking
+      - item: Data Networks
         link:
+
+      - item: Statistical Inference
+
+      - item: Computer Systems for Data Science
 
 career-profile:
     title: Career Profile
@@ -128,7 +132,7 @@ projects:
         tagline: "Data Visualization"
       - title: Optical Sensor Based Passenger Sensing System
         link: https://docs.google.com/presentation/d/1dENb5M4qLZRe_51Iby27uWqwSpm4tYzYKMlies8N1KU/edit?usp=sharing
-        tagline: "Sensors"
+        tagline: "Sensing System Design"
 Certificates:
 
 
