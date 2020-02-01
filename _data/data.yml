@@ -157,8 +157,7 @@ skills:
       - name: C & C++
         level: 60%
 
-      - name: C#
-        level: 60%
+      
 
       - name: SQL
         level: 60%
@@ -169,6 +168,9 @@ skills:
       - name: PySpark & Hadoop 
         level: 60%
 
+      - name: C#
+        level: 60%
+        
       - name: Julia
         level: 20%
 
