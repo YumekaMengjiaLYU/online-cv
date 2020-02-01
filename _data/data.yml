@@ -45,15 +45,21 @@ sidebar:
       - item: Machine Learning for Data Science
         link:
 
-      - item: Advanced Data Structures
-        link:
+      - item: Data Science I & II
 
-      - item: Data Networks
-        link:
+      - item: Biostatistical Methods I & II
+
+     
 
       - item: Statistical Inference
 
       - item: Computer Systems for Data Science
+
+      - item: Advanced Data Structures
+        link:
+
+      - item: Data Networks
+       
 
 career-profile:
     title: Career Profile
