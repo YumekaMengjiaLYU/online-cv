@@ -169,10 +169,10 @@ skills:
         level: 60%
 
       - name: C#
-        level: 60%
-        
-      - name: Julia
         level: 20%
+
+      - name: Julia
+        level: 10%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
