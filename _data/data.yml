@@ -58,7 +58,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Master student studying data science with solid background in electrical engineering and statistics. Strong interest in machine learning, signal processing and data science for social good. Proficient in Python, C/C++, Java, Matlab and R. Online learning and mental health advocate.
+      Master student studying data science with solid background in electrical engineering and statistics. Strong interest in machine learning, signal processing and data science in general. Proficient in Python, C/C++, Java, Matlab and R. Online learning and mental health advocate.
 education:
     - degree: MS in Biostatistics
       university: Columbia University
@@ -90,7 +90,7 @@ experiences:
       details: |
        
           - Led weekly laboratory sessions for an introductory undergraduate class in digital and analog circuit design
-          
+          - Debugged circuit problems and Verilog codes
     - role: Research Assistant - Electrochemical Interfaces
       time: January - December 2017
       company: Department of Nanoengineering @ UC San Diego
@@ -99,7 +99,10 @@ experiences:
           - Worked in collaboration with PhD students on electrochemical wearable sensors in professor Joseph Wang's lab
           - Designed custom-built electronic interface in a team of electrical engineers
           - Resolved technical issues with computers and electronic devices in lab 
-    #- role: Senior Capstone Member - Embedded System Design
+    
+    
+    
+         
      
     #time: January 2017 - March 2017
      # company: Cubic Corporation
@@ -120,8 +123,8 @@ experiences:
       company: Center for Energy Research @ UC San Diego
       details: |
        
-          - Studied under the supervision of professor Farhat Beg 
-          - Revised and edited MATLAB code for the research group
+          
+          - Revised and edited MATLAB code for professor Farhat Beg's research group
 projects:
     title: Academic Projects
     intro: >
