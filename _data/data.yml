@@ -58,7 +58,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Master student studying data science with solid background in electrical engineering and statistics. Strong interest in machine learning, signal processing and data science in general. Proficient in Python, C/C++, Java, Matlab and R. Online learning and mental health advocate.
+      Master's student studying data science with solid background in electrical engineering and statistics. Strong interest in machine learning, signal processing and data science in general. Proficient in Python, C/C++, Java, Matlab and R. Online learning and mental health advocate.
 education:
     - degree: MS in Biostatistics
       university: Columbia University
@@ -91,6 +91,8 @@ experiences:
        
           - Led weekly laboratory sessions for an introductory undergraduate class in digital and analog circuit design
           - Debugged circuit problems and Verilog codes
+    
+    
     - role: Research Assistant - Electrochemical Interfaces
       time: January - December 2017
       company: Department of Nanoengineering @ UC San Diego
