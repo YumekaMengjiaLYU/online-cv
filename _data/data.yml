@@ -95,16 +95,17 @@ experiences:
           - Worked in collaboration with PhD students on electrochemical wearable sensors in professor Joseph Wang's lab
           - Designed custom-built electronic interface in a team of electrical engineers
           - Resolved technical issues with computers and electronic devices in lab 
-    - role: Senior Capstone Member - Embedded System Design
-      time: January 2017 - March 2017
-      company: Cubic Corporation
-      details: |
+    #- role: Senior Capstone Member - Embedded System Design
+     
+    #time: January 2017 - March 2017
+     # company: Cubic Corporation
+      #details: |
        
-          - Collaborated with three teammates to implement an embedded software system for subway passenger tracking system being developed at Cubic Corporation
-          - Took notes from weekly meetings with team mentor Dr. Tom Busch-Sorensen 
-          - Soldered circuits onto PCBs
-    - role: Summer Research Intern - PCB Design for Medical Devices 
-      time: June - August 2016
+       #   - Collaborated with three teammates to implement an embedded software system for subway passenger tracking system being developed at Cubic Corporation
+        #  - Took notes from weekly meetings with team mentor Dr. Tom Busch-Sorensen 
+         # - Soldered circuits onto PCBs
+    #- role: Summer Research Intern - PCB Design for Medical Devices 
+     # time: June - August 2016
       company: Institute of Microelectronics @ Fudan University
       details: |
        
@@ -118,14 +119,16 @@ experiences:
           - Studied under the supervision of professor Farhat Beg 
           - Revised and edited MATLAB code for the research group
 projects:
-    title: Projects
+    title: Academic Projects
     intro: >
      
     assignments:
       - title: US Maternal Health Statistics By State and Year
-        link: "#https://mengjia-lyu.shinyapps.io/us_shiny/"
-        tagline: "class team project"
-
+        link: https://mengjia-lyu.shinyapps.io/us_shiny/
+        tagline: "Data Visualization"
+      - title: Optical Sensor Based Passenger Sensing System
+        link: https://docs.google.com/presentation/d/1dENb5M4qLZRe_51Iby27uWqwSpm4tYzYKMlies8N1KU/edit?usp=sharing
+        tagline: "Sensors"
 Certificates:
 
 
